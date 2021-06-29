@@ -24,6 +24,9 @@ export default function App() {
         <Route  component={Error} />
       </Switch>
     </Router>
+    <h1 className=''>
+      osama
+    </h1>
     </>
   )
 }
